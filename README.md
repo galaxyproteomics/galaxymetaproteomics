@@ -12,7 +12,7 @@ Please access the links indicated below for the following materials:
 
 - How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu)
 
-- Accessing an Interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [yyyy.z.umn.edu](http://yyyy.z.umn.edu)
+- Accessing an interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [yyyy.z.umn.edu](http://yyyy.z.umn.edu)
 
 - Accessing an interactive Galaxy Tour describing Dataset Collections: [vvvv.z.umn.edu](http://vvvv.z.umn.edu)
 

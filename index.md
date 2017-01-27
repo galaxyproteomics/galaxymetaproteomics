@@ -5,7 +5,7 @@ Please access the links indicated below for the following materials:
 
 
 
-**Training on usegalaxyp.org**
+**Training on usegalaxyp.org**Test
 
 - How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu){:target="_blank"}
 

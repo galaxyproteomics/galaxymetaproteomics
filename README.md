@@ -21,6 +21,7 @@ Please access the links indicated below for the following materials:
 - Accessing an interactive Galaxy Tour describing Dataset Collections: [http://z.umn.edu/datasetcollectiontour](http://z.umn.edu/datasetcollectiontour)
 
 - Accessing an interactive Galaxy Tour describing the protein sequence database search workflow: [http://z.umn.edu/sequencedbsearchtour](http://z.umn.edu/sequencedbsearchtour)
+
 <br />
 **Workflow training and operation**
 

@@ -11,26 +11,24 @@ Please access the links indicated below for the following materials:
 <br />
 **Training on usegalaxyp.org**
 
-- How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu)
+- How to access and use the usegalaxyp.org training site: [http://z.umn.edu/accessusegalaxyporg](http://z.umn.edu/accessusegalaxyporg)
 
 <br />
 **Interactive Galaxy Tours**
 
-- Accessing an interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [yyyy.z.umn.edu](http://yyyy.z.umn.edu)
+- Accessing an interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [http://z.umn.edu/rnaseqtoproteindbtour](http://z.umn.edu/rnaseqtoproteindbtour)
 
-- Accessing an interactive Galaxy Tour describing Dataset Collections: [vvvv.z.umn.edu](http://vvvv.z.umn.edu)
+- Accessing an interactive Galaxy Tour describing Dataset Collections: [http://z.umn.edu/datasetcollectiontour](http://z.umn.edu/datasetcollectiontour)
 
-- Accessing an interactive Galaxy Tour describing the protein sequence database search workflow: [uuuuu.z.umn.edu](http://uuuuu.z.umn.edu)
-
+- Accessing an interactive Galaxy Tour describing the protein sequence database search workflow: [http://z.umn.edu/sequencedbsearchtour](http://z.umn.edu/sequencedbsearchtour)
 <br />
 **Workflow training and operation**
 
-- Instructions on running the RNA-seq-to-protein-database workflow: [rrrrr.z.umn.edu](http://rrrrr.z.umn.edu)
+- Instructions on running the RNA-seq-to-protein-database workflow: [http://z.umn.edu/rnatoproteindbworkflow](http://z.umn.edu/rnatoproteindbworkflow)
 
-- Instructions on running the protein sequence database search workflow and interpreting results: [pppp.z.umn.edu](http://pppp.z.umn.edu)
+- Instructions on running the protein sequence database search workflow and interpreting results: [http://z.umn.edu/sequencedbsearchworkflow](http://z.umn.edu/sequencedbsearchworkflow)
 
 <br />
 **JetStream instance**
 
-- Instructions for accessing workflows on the JetStream Galaxy instance: [mmmm.z.umn.edu](http://mmmm.z.umn.edu)
-
+- Instructions for accessing workflows on the JetStream Galaxy instance: [http://z.umn.edu/accessjetstream](http://z.umn.edu/accessjetstream)

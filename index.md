@@ -1,11 +1,9 @@
-# An accessible Metaproteomics resource for researchers
-### http://z.umn.edu/metaproteomicsgateway
 
---------------------------------------------------------------------------
-**Instructions for accessing Jetstream metaproteomics gateway:**
+**Instructions for accessing Jetstream metaproteomics gateway**
 [http://z.umn.edu/accessmpgwjetstream](http://z.umn.edu/accessmpgwjetstream)
 
 **Instructions for accessing workflows and training material**
+
 Links to instructional materials from the ABRF 2017 satellite workshop 
 (http://conf.abrf.org/the-galaxy- platform) describing how to access and use the 
 metaproteomic workflows.

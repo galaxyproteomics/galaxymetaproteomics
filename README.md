@@ -12,7 +12,7 @@ metaproteomic workflows.
 
 <br />
 
-- Slides from the ABRF 2017 Workshop: [http://z.umn.edu/mpgwslides](http://z.umn.edu/mpgwslides,target=_blank)
+- Slides from the ABRF 2017 Workshop: [http://z.umn.edu/mpgwslides](http://z.umn.edu/mpgwslides){:target="_blank"}
 - Documentation from the ABRF 2017 Workshop: [http://z.umn.edu/mpgwdocs](http://z.umn.edu/mpgwdocs)
 
 <br />

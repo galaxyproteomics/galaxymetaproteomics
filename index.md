@@ -6,7 +6,7 @@
 **Instructions for accessing workflows and training material**
 
 Links to instructional materials from the [ABRF 2017 satellite workshop 
-](https://galaxyproteomics.github.io/abrf2017/){:target="_blank"} describing how to access and use the 
+](http://conf.abrf.org/archives/abrf2017/satellite-workshops.html){:target="_blank"} describing how to access and use the 
 metaproteomic workflows.
 
 - Slides from the ABRF 2017 Workshop: [http://z.umn.edu/mpgwslides](http://z.umn.edu/mpgwslides){:target="_blank"}

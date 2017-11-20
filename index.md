@@ -5,7 +5,7 @@
 
 
 
-* [**_Metaproteomics Gateway_**](z.umn.edu/metaproteomicsgateway){:target="_blank"}
+* [**_Metaproteomics Gateway_**](http://129.114.16.192){:target="_blank"}
 
 * [**_Access to Paper and Supplements_**](){:target="_blank"}
 

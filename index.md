@@ -1,5 +1,5 @@
 
-**Welcome to Metaproteomics Training Website**
+##**Welcome to Metaproteomics Training Website**##
 
 **Instructions for accessing workflows and training material**
 

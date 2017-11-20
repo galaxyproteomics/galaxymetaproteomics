@@ -5,7 +5,7 @@
 
 * [**_Metaproteomics Gateway_**](z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
-* [**_Access to Paper and Supplements_**](){:target="_blank"}_
+* [**_Access to Paper and Supplements_**](){:target="_blank"}
 
 * [**_Metaproteomics GTN_**](http://galaxyproject.github.io/training-material){:target="_blank"}
 

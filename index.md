@@ -1,6 +1,8 @@
-# Welcome to Metaproteomics Training Website
+# Welcome to Galaxy-P Metaproteomics Website
 
-## **Instructions for accessing workflows and training material**
+
+### Accessible links to the Galaxy-P for Metaproteomics training material. 
+
 
 
 * [**_Metaproteomics Gateway_**](z.umn.edu/metaproteomicsgateway){:target="_blank"}

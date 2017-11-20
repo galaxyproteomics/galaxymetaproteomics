@@ -1,7 +1,7 @@
 # Welcome to Galaxy-P Metaproteomics Website
 
 
-### Accessible links to the Galaxy-P for Metaproteomics training material. 
+### Accessible links to the Metaproteomics training material. 
 
 
 

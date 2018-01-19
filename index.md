@@ -5,9 +5,9 @@
 ### Accessible links to the Metaproteomics training material. 
 
 
-* [**_Metaproteomics Gateway_**](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
+* [**_Instructions on using this gateway_**](http://z.umn.edu/SuppS1){:target="_blank"}
 
-* [**_Access to Paper and Supplements_**](){:target="_blank"}
+* [**_Access to Paper_**](){:target="_blank"}
 
 * [**_Metaproteomics GTN_**](http://galaxyproject.github.io/training-material){:target="_blank"}
 

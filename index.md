@@ -15,7 +15,7 @@
 
 * [**_Galaxy Proteomics Github_**](https://github.com/galaxyproteomics){:target="_blank"}
 
-* [**_Galaxy-P Metaproteomics Docker_**](){:target="_blank"}
+* [**_Galaxy-P Metaproteomics Docker_**](https://github.com/galaxyproteomics/docker-galaxyp){:target="_blank"}
 
-* [**_Metaproteomics Tutorial Video_**](){:target="_blank"}
+* [**_Metaproteomics Tutorial Video_**](http://z.umn.edu/mpvideo2018){:target="_blank"}
 

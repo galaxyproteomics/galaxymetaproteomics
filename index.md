@@ -7,7 +7,7 @@
 
 * [**_Instructions on using this gateway_**](http://z.umn.edu/SuppS1){:target="_blank"}
 
-* [**_Access to Paper_**](){:target="_blank"}
+* [**_Access to Paper_**](http://www.mdpi.com/2227-7382/6/1/7/html){:target="_blank"}
 
 * [**_Metaproteomics GTN_**](http://galaxyproject.github.io/training-material){:target="_blank"}
 

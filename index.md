@@ -9,7 +9,7 @@
 
 * [**_Access to Paper_**](http://www.mdpi.com/2227-7382/6/1/7/html){:target="_blank"}
 
-* [**_Metaproteomics GTN_**](http://galaxyproject.github.io/training-material){:target="_blank"}
+* [**_Metaproteomics GTN_**](http://galaxyproject.github.io/training-material/topics/proteomics/){:target="_blank"}
 
 * [**_Galaxy toolshed_**](https://toolshed.g2.bx.psu.edu/){:target="_blank"}
 

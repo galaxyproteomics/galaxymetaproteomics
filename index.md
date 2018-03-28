@@ -24,5 +24,5 @@
 
 
 
-The [Galaxy-P team](https://galaxyp.org){:target="_blank"} collaborates with Galaxy developers around the world including the European Galaxy Community. Users are recommended to use [usegalaxy.eu](https://usegalaxy.eu){:target="_blank"} as an alternative server to run your analyses.
+The [**_Galaxy-P team_**](https://galaxyp.org){:target="_blank"} collaborates with **Galaxy developers** around the world including the **European Galaxy Community**. Users are recommended to use [**_usegalaxy.eu_**](https://usegalaxy.eu){:target="_blank"} as an alternative server to run your analyses.
 

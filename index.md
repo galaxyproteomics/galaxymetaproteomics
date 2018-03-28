@@ -19,3 +19,10 @@
 
 * [**_Metaproteomics Tutorial Video_**](http://z.umn.edu/mpvideo2018){:target="_blank"}
 
+
+
+
+
+
+The [Galaxy-P team](https://galaxyp.org){:target="_blank"} collaborates with Galaxy developers around the world including the European Galaxy Community. Users are recommended to use [usegalaxy.eu](https://usegalaxy.eu){:target="_blank"} as an alternative server to run your analyses.
+

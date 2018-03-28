@@ -1,6 +1,6 @@
 # Welcome to Galaxy-P Metaproteomics Website
 
-<div style="text-align: justify"> Galaxy-P platform offers an open source, bioinformatics platform for disseminating metaproteomics software and workflows. This was a result of [metaproteomics contribution-fest](http://z.umn.edu/mphack2016){:target="_blank"} which generated easily accessible and documented metaproteomic software tools and workflows. The metaproteomic workflows encompass the core requirements i.e. a) Database generation, b) Peptide spectral matching, c) Taxonomic analysis and d) Functional analysis. These workflows can be used for training researchers and also broaden the use of the developed tools.</div> 
+<div style="text-align: justify"> Galaxy-P platform offers an open source, bioinformatics platform for disseminating metaproteomics software and workflows. This was a result of [**Metaproteomics contribution-fest**](http://z.umn.edu/mphack2016){:target="_blank"} which generated easily accessible and documented metaproteomic software tools and workflows. The metaproteomic workflows encompass the core requirements i.e. a) Database generation, b) Peptide spectral matching, c) Taxonomic analysis and d) Functional analysis. These workflows can be used for training researchers and also broaden the use of the developed tools.</div> 
 
 ### Accessible links to the Metaproteomics training material. 
 
@@ -19,9 +19,9 @@
 
 * [**_Metaproteomics Tutorial Video_**](http://z.umn.edu/mpvideo2018){:target="_blank"}
 
-<break>
+
   
-</break>
+<br />
 
 The [**_Galaxy-P team_**](https://galaxyp.org){:target="_blank"} collaborates with **Galaxy developers** around the world including the **European Galaxy Community**. Users are recommended to use [**_usegalaxy.eu_**](https://usegalaxy.eu){:target="_blank"} as an alternative server to run your analyses.
 
